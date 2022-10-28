@@ -14,7 +14,7 @@ email_username = os.environ.get("EMAIL_USERNAME")
 email_password = os.environ.get("EMAIL_PASSWORD")
 
 subject        = "An example of python email"
-sender_email   = "Daghan <daghan.altunsoy@gmail.com>"
+sender_email   = "Daghan <daghan@kruta.link>"
 receiver_email = "daghan.altunsoy@gmail.com"
 filename       = "koala.jpg"
 
